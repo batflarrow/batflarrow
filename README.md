@@ -1,4 +1,4 @@
-# Hey there 👋 I'm Amitvikram -aka Batflarrow
+# Hey there 👋 I'm Amitvikram
 
 <!--
 **batflarrow/batflarrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
